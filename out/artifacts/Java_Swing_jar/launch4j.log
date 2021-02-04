@@ -1,0 +1,27 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\rui-sheng.toh\IdeaProjects\Java Swing\out\artifacts\Java_Swing_jar\Java Swing.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\rui-sheng.toh\IdeaProjects\Java Swing\out\artifacts\Java_Swing_jar\.
+Java min ver:	1.013.000_002
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Ignore:		1.006.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_26
+Ignore:		1.006.000_026
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13.0.2
+Check launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe (OK)
+Match:		1.013.000_002
+Runtime used:	1.013.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\rui-sheng.toh\IdeaProjects\Java Swing\out\artifacts\Java_Swing_jar\Java Swing.exe"
+Args length:	97/32768 chars
+Exit code:	0
